@@ -1,0 +1,253 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 1380px;
+    margin: 0 auto;
+}
+
+.login{
+    display: flex;
+    justify-content: end;
+    align-items: start;
+}
+
+
+.main__box{
+    display: flex;
+    justify-content: space-between
+}
+
+.main__menu{
+    display: flex;
+    align-items: center;
+}
+ 
+.main__text{
+    
+ text-align: center;
+ font-family: Lato;
+ font-size: 20px;
+ font-style: normal;
+ font-weight: 400;
+ line-height: 25px;
+ margin-right: 40px;
+}
+
+.main__text:last-child{
+    margin: 0;
+}
+
+.main__text_g{
+    border-radius: 4px;
+    border: 1px solid #01996D;
+    background: #01996D;
+    color: #FFF;
+    padding: 10px 20px;
+    
+
+}
+.main__first{
+    justify-content: center;
+}
+
+/* intro */
+
+.intro{
+    background: url('../img/women\ 2.jpg') no-repeat center center/cover;
+    padding: 175px 0 336px 0;
+}
+.intro__first{
+    color: #01996D;
+    font-family: Georgia;
+    font-size: 40px;
+}
+
+.intro__two{
+color: #484848;
+font-family: Lato;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 157%;
+padding-right: 1170px;
+}
+
+.intro__text{
+    border-radius: 4px;
+    border: 1px solid #01996D;
+    background: #01996D;
+    display: inline-flex;
+    padding: 20px 50px;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+    color:#FFF ;
+}
+/* * text */
+
+.container2{
+    width: 1400px;
+    margin: 0 auto;
+    padding: 110px;
+}
+.main__fox{
+    color: #424242;
+    font-family: Lato;
+}
+.main__fox2{
+    color:#01996D ;
+    font-family: Georgia;
+    display: flex;
+    justify-content: space-between;
+    font-style: normal;
+}
+.main__fox3{
+    color: #424242;
+    font-family: Lato;
+    font-size: 20px;
+    max-width: 500px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%
+}
+
+
+/*main__section*/
+.container3{
+    width: 1400px;
+    margin: 0 auto;
+    padding: 110px;
+    background-color: #245852;
+}
+.video{
+    color: #FFF;
+    font-family: Georgia;
+    padding: 40px;
+}
+
+.text{
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+}
+.video{
+    display: flex;
+    
+
+}
+.box__video{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-right: 33px;
+    align-items: flex-start;
+}
+.last{
+    border-radius: 1px;
+    border: 3px solid #01996D;
+    background: #01996D; 
+    color: #fff;
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 25px;
+    padding: 20px 50px;
+}
+
+.box__video h2{
+    font-size: 50px;
+    font-weight: 700;
+    margin-bottom: 33px;
+
+}
+
+.text p{
+    font-size: 25px;
+    font-weight: 600;
+    font-family: Lato;
+    margin-bottom: 61px;
+}
+.container4{
+    width: 1400px;
+    margin: 0 auto;
+    padding: 110px;
+}
+
+
+.last__text p{
+    margin-top: 10px;
+    margin-left: 729px;
+    display: flex;
+    color: #424242;
+    font-family: Lato;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 157%;
+}
+.lust__text2 {
+color: #01996D;
+font-family: Georgia;
+font-size: 30px;
+font-style: normal;
+font-weight: 700;
+line-height: 157%;
+margin-left: 729px;
+}
+.lust__text3 p{
+    color: #484848;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 157%;
+    margin-left: 729px;
+    padding: 30px;
+}
+.botton{
+    border-radius: 4px;
+    border: 1px solid #01996D;
+    background: #01996D;
+    color: #FFF;
+    display: flex;
+    display: inline-flex;
+    padding: 20px 50px;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+    margin-left: 729px;
+}
+.for__vip{
+    border-radius: 18.112px;
+    background: rgba(1, 153, 109, 0.20);
+    margin-top: -350px;
+}
+.all__word{
+    color: #FFF;
+font-family: Lato;
+font-size: 25px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.container5{
+    width: 1920px;
+    height: 654px;
+    flex-shrink: 0;
+    background: #245852;
+}
+.word{
+    color: #FFF;
+    font-family: Avenir;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+.titrs{
+    display: flex;
+}
